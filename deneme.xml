@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tahmin>
+<cars name ="Toyota">
+<year>2010</year>
+<model>Corolla</model>
+<fiyat>100000</fiyat>
+</cars>
+<cars name ="Renault">
+<year>2015</year>
+<model>Megane</model>
+<fiyat>120000</fiyat>
+</cars>
+<cars name ="BMW">
+<year>2020</year>
+<model>3.16</model>
+<fiyat>400000</fiyat>
+</cars>
+</Tahmin>

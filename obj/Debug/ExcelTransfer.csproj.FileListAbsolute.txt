@@ -1,0 +1,14 @@
+C:\Users\gökhan\source\repos\ExcelTransfer\bin\Debug\ExcelTransfer.exe.config
+C:\Users\gökhan\source\repos\ExcelTransfer\bin\Debug\ExcelTransfer.exe
+C:\Users\gökhan\source\repos\ExcelTransfer\bin\Debug\ExcelTransfer.pdb
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\ExcelTransfer.Form1.resources
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\ExcelTransfer.Properties.Resources.resources
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\ExcelTransfer.csproj.GenerateResource.cache
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\ExcelTransfer.csproj.CoreCompileInputs.cache
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\ExcelTransfer.exe
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\ExcelTransfer.pdb
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\Interop.MSDASC.dll
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\ExcelTransfer.csproj.ResolveComReference.cache
+C:\Users\gökhan\source\repos\ExcelTransfer\obj\Debug\ExcelTransfer.csprojAssemblyReference.cache
